@@ -1,1 +1,1 @@
-from . import proveedores, clientes, articulos, factura
+from . import proveedores, clientes, articulos, facturas

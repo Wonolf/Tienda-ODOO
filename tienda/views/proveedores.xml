@@ -11,6 +11,7 @@
                 <tree>
                     <field name="cif"/>
                     <field name="nombre"/>
+                    <field name="direccion"/>
                     <field name="poblacion"/>
                     <field name="provincia"/>
                     <field name="codPostal"/>
@@ -28,6 +29,7 @@
                     <group>
 						<field name="cif"/>
 						<field name="nombre"/>
+						<field name="direccion"/>
 						<field name="poblacion"/>
 						<field name="provincia"/>
 						<field name="codPostal"/>
@@ -45,6 +47,7 @@
                 <search>
                     <field name="cif"/>
                     <field name="nombre"/>
+                    <field name="direccion"/>
                     <field name="poblacion"/>
                     <field name="provincia"/>
                     <field name="codPostal"/>

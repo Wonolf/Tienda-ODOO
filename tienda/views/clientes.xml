@@ -12,6 +12,7 @@
                     <field name="dni"/>
                     <field name="nombre"/>
                     <field name="apellidos"/>
+                    <field name="direccion"/>
                     <field name="poblacion"/>
                     <field name="provincia"/>
                     <field name="codPostal"/>
@@ -30,6 +31,7 @@
 						<field name="dni"/>
 						<field name="nombre"/>
 						<field name="apellidos"/>
+						<field name="direccion"/>
 						<field name="poblacion"/>
 						<field name="provincia"/>
 						<field name="codPostal"/>
@@ -48,6 +50,7 @@
                     <field name="dni"/>
                     <field name="nombre"/>
                     <field name="apellidos"/>
+                    <field name="direccion"/>
                     <field name="poblacion"/>
                     <field name="provincia"/>
                     <field name="codPostal"/>
